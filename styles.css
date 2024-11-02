@@ -1,0 +1,49 @@
+
+
+
+.botons {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #e0e0e0;
+    border: 1px solid #999;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+
+#input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 24px;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #f8f8f8;
+    border: 1px solid #999;
+    box-sizing: border-box;
+}
+
+
+.btn {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    font-size: 20px;
+    border: 1px solid #999;
+    border-radius: 3px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+
+.num {
+    background-color: #fff;
+}
+
+.oper {
+    background-color: #f0f0f0;
+}
+
+
+
